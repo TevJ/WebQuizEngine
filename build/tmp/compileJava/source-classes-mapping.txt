@@ -1,0 +1,56 @@
+engine/dto/UserDto.java
+ engine.dto.UserDto
+engine/repository/UserRepository.java
+ engine.repository.UserRepository
+engine/service/QuizService.java
+ engine.service.QuizService
+engine/entity/User.java
+ engine.entity.User
+engine/controller/QuizController.java
+ engine.controller.QuizController
+engine/dto/QuizDto.java
+ engine.dto.QuizDto
+engine/WebQuizEngine.java
+ engine.WebQuizEngine
+engine/repository/QuizRepository.java
+ engine.repository.QuizRepository
+engine/validation/EmailValidator.java
+ engine.validation.EmailValidator
+engine/controller/UserController.java
+ engine.controller.UserController
+engine/authentication/AuthenticationFacade.java
+ engine.authentication.AuthenticationFacade
+engine/entity/Quiz.java
+ engine.entity.Quiz
+engine/validation/ValidEmail.java
+ engine.validation.ValidEmail
+engine/security/UserDetailsServiceImpl.java
+ engine.security.UserDetailsServiceImpl
+engine/security/WebSecurityConfig.java
+ engine.security.WebSecurityConfig
+engine/repository/QuizCompletionRepository.java
+ engine.repository.QuizCompletionRepository
+engine/security/BasicAuthenticationEntryPointImpl.java
+ engine.security.BasicAuthenticationEntryPointImpl
+engine/entity/StringListToStringConverter.java
+ engine.entity.StringListToStringConverter
+engine/service/UserEmailExistsException.java
+ engine.service.UserEmailExistsException
+engine/entity/QuizCompletion.java
+ engine.entity.QuizCompletion
+engine/dto/QuizCompletionDto.java
+ engine.dto.QuizCompletionDto
+engine/service/UserService.java
+ engine.service.UserService
+engine/entity/UserMapper.java
+ engine.entity.UserMapper
+engine/entity/QuizMapper.java
+ engine.entity.QuizMapper
+engine/entity/IntegerListToStringConverter.java
+ engine.entity.IntegerListToStringConverter
+engine/controller/ControllerExceptionHandler.java
+ engine.controller.ControllerExceptionHandler
+engine/dto/AnswerFeedbackDto.java
+ engine.dto.AnswerFeedbackDto
+engine/dto/AnswerDto.java
+ engine.dto.AnswerDto
